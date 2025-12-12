@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola, soy Guillermo Saldaña!
 
-<!--
-**guillesald/guillesald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por la ciencia de datos.  
+Disfruto descubrir patrones y transformar datos en información útil, y me motiva aprender y mejorar continuamente.
 
-Here are some ideas to get you started:
+## Habilidades técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes de programación: Python, R, C++  
+Bases de datos: SQL (PostgreSQL, SQL Server), NoSQL, ClickHouse  
+Herramientas de análisis / ETL / visualización: Power BI, Tableau, Metabase 
+Sistemas operativos / Servidores: Windows, Linux  
+Control de versiones / DevOps / Contenedores: Git, Docker  
+
+## Experiencia profesional
+
+Durante mis Prácticas Profesionalizantes participé en el desarrollo de un sistema de gestión de equipamiento médico, integrando base de datos, interfaz de usuario y procesos de seguimiento. También colaboré en recolección y análisis de datos para estudios de investigación en la UNER.
+
+## Educación
+
+Soy Técnico Universitario en Procesamiento y Explotación de Datos por la Facultad de Ingeniería (UNER) y comenzaré la Licenciatura en Ciencia de Datos en 2026.
+
+## Contacto
+
+LinkedIn: [Guillermo Saldaña](https://www.linkedin.com/in/guillermo-ariel-saldaña)  
+Email: guillermo.saldana@ingenieria.uner.edu.ar
+
