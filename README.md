@@ -1,6 +1,6 @@
 # ¡Hola, soy Guillermo Saldaña!
 
-Soy un apasionado por la ciencia de datos.  
+Soy un apasionado por la Ciencia de Datos.  
 Disfruto descubrir patrones y transformar datos en información útil, y me motiva aprender y mejorar continuamente.
 
 ## Habilidades técnicas
