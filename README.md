@@ -8,8 +8,8 @@ Disfruto descubrir patrones y transformar datos en información útil, y me moti
 Lenguajes de programación: Python, R, C++  
 Bases de datos: SQL (PostgreSQL), NoSQL(fundamentos de Cassandra, MongoDB, Apache Druid), ClickHouse  
 Herramientas de análisis / ETL / visualización: Power BI, Tableau, Metabase
-Sistemas operativos / Servidores: Windows, Linux
 Control de versiones / DevOps / Contenedores: Git, Docker  
+Sistemas operativos / Servidores: Windows, Linux
 
 ## Experiencia profesional
 
